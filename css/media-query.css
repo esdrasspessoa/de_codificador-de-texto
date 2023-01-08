@@ -1,0 +1,22 @@
+@media screen and (max-width: 768px) {
+  .home {
+    flex-direction: column;
+  }
+  .home .campo-texto {
+    width: 100%;
+  }
+  .home .campo-lateral {
+    width: 100%;
+  }
+  .home .campo-lateral .imagem img {
+    display: none;
+  }
+  .home .campo-lateral textarea {
+    height: 250px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .home .campo-texto article .botoes {
+    flex-direction: column;
+  }
+}/*# sourceMappingURL=media-query.css.map */
