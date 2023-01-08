@@ -42,8 +42,8 @@ Por exemplo:
 
 #challengeonedecodificador4
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL da solução: [https://github.com/esdrasspessoa/de_codificador-de-texto](https://github.com/esdrasspessoa/de_codificador-de-texto)
+- URL do site ao vivo: [ https://esdrasspessoa.github.io/de_codificador-de-texto/]( https://esdrasspessoa.github.io/de_codificador-de-texto/)
 
 ![](./img/modelo-apresentacao.gif)
 
